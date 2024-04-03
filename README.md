@@ -9,6 +9,6 @@ I currently have experience with Python, SQL, PHP, and C++. Additionally, I'm fo
 - 🤝 I'm seeking for new programming partners.
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mulekotd&layout=compact&langs_count=7&theme=synthwave"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabpng&layout=compact&langs_count=7&theme=synthwave"/>
   </a>
 </div>
