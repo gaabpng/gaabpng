@@ -2,7 +2,7 @@
 
 My name is Gabriel Sales, and I'm a computer science student.
 
-I currently have experience with Python, SQL, PHP, and C++. Additionally, I'm focused on learning about C#, C++, and Django to further expand my knowledge.
+I currently have experience with Python and C++. Additionally, I'm focused on learning about C#, C and Django to further expand my knowledge.
 
 - 🎓 I graduated from technical high school in IT at Instituto Federal do Rio de Janeiro in 2023
 - 🌱 I'm currently studying Computer Science at Universidade Federal Fluminense (UFF)
